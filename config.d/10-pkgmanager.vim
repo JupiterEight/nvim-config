@@ -29,7 +29,6 @@ Plug 'tpope/vim-fugitive'
 Plug 'Raimondi/delimitMate'
 Plug 'scrooloose/syntastic'
 Plug 'SirVer/ultisnips'
-Plug 'Valloric/YouCompleteMe', {'do': './install.py --tern-completer'}
 Plug 'othree/javascript-libraries-syntax.vim', {'for': 'javascript'}
 Plug 'othree/yajs.vim', {'for': 'javascript'}
 Plug 'pangloss/vim-javascript', {'for': 'javascript'}
